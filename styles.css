@@ -1,0 +1,80 @@
+body{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    font-style: normal;
+    line-height:1.5;
+    background-color: #FFFFFF;
+    color: #434455;
+    letter-spacing:0.3px;
+}
+ul{
+    list-style-type: none;
+}
+.navlink{
+    font-weight: 500;
+    color: #2E2F42;
+    text-decoration: none;
+}
+.navlink:hover{
+    color: #404BBF;
+}
+.navlink:active{
+    color: #404BBF ;
+}
+.address-li{
+    font-weight: 400;
+    text-decoration: none;
+    color: #434455;
+}
+.address-li:hover{
+    color: #404BBF;
+}
+
+.main-header{
+    background-color: #2E2F42;
+    text-align: center;
+}
+#page-title{
+    
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1,07;
+    color: #FFFFFF;
+    letter-spacing:1.02px;
+
+}
+.service-button{
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color:#4D5AE5 ;
+    width: 169px;
+    height: 56px;
+    text-align: center;
+    border: none; 
+}
+.service-button:hover{
+    background-color:#9747FF ;
+}
+.section-title{
+    font-weight: 500;
+    font-size: 36px;
+    color: #2E2F42;
+}
+.team-section{
+    background-color:#F4F4FD;
+    text-align: center;
+}
+.team-section  li{
+    background-color: #FFFFFF;
+    width: 264px;
+}
+.page-footer{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.list-title{
+    font-size: 20px;
+    color: #2E2F42;
+}
