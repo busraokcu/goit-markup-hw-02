@@ -52,14 +52,16 @@ ul{
     height: 56px;
     text-align: center;
     border: none; 
+    cursor: pointer;
 }
 .service-button:hover{
-    background-color:#9747FF ;
+    background-color:#404BBF ;
 }
 .section-title{
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     color: #2E2F42;
+    text-align: center;
 }
 .team-section{
     background-color:#F4F4FD;
@@ -76,5 +78,7 @@ ul{
 }
 .list-title{
     font-size: 20px;
+    font-weight: 500;
     color: #2E2F42;
+
 }
