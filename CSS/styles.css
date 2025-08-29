@@ -1,8 +1,6 @@
 body{
     font-family: Roboto,sans-serif;
-    font-weight: 400;
     font-size: 16px;
-    font-style: normal;
     line-height:1.5;
     background-color: #FFFFFF;
     color: #434455;
@@ -10,6 +8,12 @@ body{
 }
 ul{
     list-style-type: none;
+}
+.logo{
+    font-weight: 700;
+    font: size 24px;
+    text-decoration: none;
+    color: #2E2F42;
 }
 .navlink{
     font-weight: 500;
@@ -23,7 +27,6 @@ ul{
     color: #404BBF ;
 }
 .address-li{
-    font-weight: 400;
     text-decoration: none;
     color: #434455;
 }
@@ -74,7 +77,12 @@ ul{
 .page-footer{
     background-color: #2E2F42;
     color: #FFFFFF;
-    font-weight: 400;
+}
+.footer-logo{
+    font-weight: 700;
+    font: size 24px;
+    text-decoration: none;
+    color: #FFFFFF;
 }
 .list-title{
     font-size: 20px;
